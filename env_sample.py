@@ -1,3 +1,3 @@
-gimport os
+import os
 
-os.environ.setdefault("SECRET_KEY", "attila_key_")
+os.environ.setdefault("SECRET_KEY", "attila112233445566778899")
